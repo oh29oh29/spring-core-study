@@ -4,7 +4,7 @@
 
 ### 목차
 
-1. IoC 컨테이너 1부: 스프링 IoC 컨테이너와 빈
+1. [IoC 컨테이너 1부: 스프링 IoC 컨테이너와 빈](https://github.com/oh29oh29/spring-core-study/blob/master/Index01.md)
 2. IoC 컨테이너 2부: ApplicationContext와 다양한 빈 설정 방법
 3. IoC 컨테이너 3부: @Autowired
 4. IoC 컨테이너 4부: @Component와 컴포넌트 스캔
