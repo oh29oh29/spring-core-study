@@ -8,7 +8,7 @@
 2. [IoC 컨테이너 2부: ApplicationContext와 다양한 빈 설정 방법](https://github.com/oh29oh29/spring-core-study/blob/master/Index02.md)
 3. [IoC 컨테이너 3부: @Autowired](https://github.com/oh29oh29/spring-core-study/blob/master/Index03.md)
 4. [IoC 컨테이너 4부: @Component와 컴포넌트 스캔](https://github.com/oh29oh29/spring-core-study/blob/master/Index04.md)
-5. IoC 컨테이너 5부: 빈의 스코프
+5. [IoC 컨테이너 5부: 빈의 스코프](https://github.com/oh29oh29/spring-core-study/blob/master/Index05.md)
 6. IoC 컨테이너 6부: Environment 1부. 프로파일
 7. IoC 컨테이너 7부: Environment 2부: 프로퍼티
 8. IoC 컨테이너 8부: ApplicationEventPublisher
