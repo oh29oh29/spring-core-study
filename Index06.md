@@ -3,6 +3,8 @@
 * ApplicationContext는 BeanFactory의 역할만 하는것이 아니라 다양한 기능을 갖고 있다.
 * 그 중 하나가 Environment의 프로파일 기능이다.
 
+<br>
+
 #### 프로파일
 
 * 빈들의 묶음
@@ -73,6 +75,8 @@ public class AppRunner implements ApplicationRunner {
         }
     }
     ```
+
+<br>
 
 #### 프로파일 표현식
 
