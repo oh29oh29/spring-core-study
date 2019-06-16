@@ -1,4 +1,4 @@
-## IoC 컨테이너 6부: Environment 1부. 프로퍼티 
+## IoC 컨테이너 6부: Environment 2부. 프로퍼티 
 
 * 다양한 방법으로 정의할 수 있는 설정값
 * Environment의 역할은 프로퍼티 소스 설정 및 프로퍼티 값 가져오기
