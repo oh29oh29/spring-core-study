@@ -29,6 +29,6 @@
     * ClassPathXmlApplication -> ClassPathResource
     * FileSystemXmlApplicationContext -> FileSystemResource
     * WebApplicationContext -> ServletContextResource
-* ApplicationContext의 타입에 상관없이 리소스 타입을 강제하려면 java.net.URL 접두(+ classapth:) 중 하나를 사용할 수 있다.
+* ApplicationContext의 타입에 상관없이 리소스 타입을 강제하려면 java.net.URL 접두어(+ classapth:) 중 하나를 사용할 수 있다.
     * classpath:pe/oh29oh29/config.xml -> ClassPathResource
     * file:///some/resource/path/config.xml -> FileSystemResource
