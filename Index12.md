@@ -6,7 +6,7 @@
 
 <br>
 
-#### 특정
+#### 특징
 
 * 어떠한 계층과도 관계가 없다. 모든 계층(웹, 서비스, 데이터)에서 사용해도 좋다.
 * 구현체 중 하나로 JSR-303(Bean Validation 1.0)과 JSR-349(Bean Validation 1.1)을 지원한다 ([LocalValidatorFactoryBean](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/validation/beanvalidation/LocalValidatorFactoryBean.html))
