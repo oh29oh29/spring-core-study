@@ -15,11 +15,11 @@
 9. [IoC 컨테이너 8부: ApplicationEventPublisher](https://github.com/oh29oh29/spring-core-study/blob/master/Index09.md)
 10. [IoC 컨테이너 9부: ResourceLoader](https://github.com/oh29oh29/spring-core-study/blob/master/Index10.md)
 11. [Resource 추상화](https://github.com/oh29oh29/spring-core-study/blob/master/Index11.md)
-12. Validation 추상화
-13. 데이터 바인딩 추상화:PropertyEditor
-14. 데이터 바인딩 추상화:Converter와 Formatter
-15. SpEL (스프링 Expression Language)
-16. 스프링 AOP:개념 소개
-17. 스프링 AOP:프록시 기반 AOP
-18. 스프링 AOP:@AOP
-19. Null-safety
+12. [Validation 추상화](https://github.com/oh29oh29/spring-core-study/blob/master/Index12.md)
+13. [데이터 바인딩 추상화:PropertyEditor](https://github.com/oh29oh29/spring-core-study/blob/master/Index13.md)
+14. [데이터 바인딩 추상화:Converter와 Formatter](https://github.com/oh29oh29/spring-core-study/blob/master/Index14.md)
+15. [SpEL (스프링 Expression Language)](https://github.com/oh29oh29/spring-core-study/blob/master/Index15.md)
+16. [스프링 AOP:개념 소개](https://github.com/oh29oh29/spring-core-study/blob/master/Index16.md)
+17. [스프링 AOP:프록시 기반 AOP](https://github.com/oh29oh29/spring-core-study/blob/master/Index17.md)
+18. [스프링 AOP:@AOP](https://github.com/oh29oh29/spring-core-study/blob/master/Index18.md)
+19. [Null-safety](https://github.com/oh29oh29/spring-core-study/blob/master/Index19.md)
